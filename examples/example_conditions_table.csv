@@ -1,0 +1,25 @@
+Condition,Marker,Timepoint,Path
+H37Rv,Galectin-3,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C1/Images/Slide M2 - C1/Region 007
+eccCa1_Tn,Galectin-3,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C1/Images/Slide M2 - C1/Region 006
+H37Rv,P62,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C1/Images/Slide M2 - C1/Region 003
+eccCa1_Tn,P62,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C1/Images/Slide M2 - C1/Region 002
+H37Rv,MHC-I,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_18_FK2_MHCI_Rab7/Slide M2 - C1/Images/Slide M2 - C1/Region 001
+H37Rv,LAMP1,4h,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C1/Images/Slide M2 - C1/Region 002
+H37Rv,Galectin-3,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C2/Images/Slide M2 - C2/Region 006
+eccCa1_Tn,Galectin-3,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C2/Images/Slide M2 - C2/Region 007
+H37Rv,P62,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C2/Images/Slide M2 - C2/Region 002
+eccCa1_Tn,P62,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C2/Images/Slide M2 - C2/Region 001
+H37Rv,MHC-I,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_18_FK2_MHCI_Rab7/Slide M2 - C2/Images/Slide M2 - C2/Region 001
+H37Rv,LAMP1,1d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C2/Images/Slide M2 - C2/Region 002
+H37Rv,Galectin-3,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C3/Images/Slide M2 - C3/Region 006
+eccCa1_Tn,Galectin-3,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C3/Images/Slide M2 - C3/Region 007
+H37Rv,P62,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C3/Images/Slide M2 - C3/WT
+eccCa1_Tn,P62,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C3/Images/Slide M2 - C3/ESX
+H37Rv,MHC-I,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_18_FK2_MHCI_Rab7/Slide M2 - C3/Images/Slide M2 - C3/Region 001
+H37Rv,LAMP1,3d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C3/Images/Slide M2 - C3/Region 003
+H37Rv,Galectin-3,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C4/Images/Slide M2 - C4/Region 007
+eccCa1_Tn,Galectin-3,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C4/Images/Slide M2 - C4/Region 006
+H37Rv,P62,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C4/Images/Slide M2 - C4/WT
+eccCa1_Tn,P62,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021-12-15_P62/Slide M2 - C4/Images/Slide M2 - C4/ESX
+H37Rv,MHC-I,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_18_FK2_MHCI_Rab7/Slide M2 - C4/Images/Slide M2 - C4/Region 001
+H37Rv,LAMP1,5d,/Volumes/G-DRIVE MOB/Mtb_colocalization_data/2021_12_16_MHCII_GAL3_LAMP1/Slide M2 - C4/Images/Slide M2 - C4/Region 002
